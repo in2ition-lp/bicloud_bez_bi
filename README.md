@@ -17,7 +17,7 @@ W tym miejscu jestem jeszcze winny jedno wyjaśnienie: dlaczego słowa BI używa
 Zanim przejdziemy do szczegółów jeszcze kilka słów o e24cloud.com. Uczestniczę w konkursie organizowanym przez chmurowisko.pl. Chciałbym Wam pokazać, jak można wykorzystać świadczone przez e24cloud.com usługi do zbudowania własnej, elastycznej infrastruktury do wykonywania analiz sporych ilości danych. Takie rozwiązanie może być naprawdę tanie. E24cloud.com może zrealizować dla Was „kawał pracy” po czym zostać wyłączone i nie generować dużych kosztów. Najważniejsze to przemyśleć: czego potrzebujemy i jak powinniśmy to zrealizować.
  
 ### Rozpoczynajmy
-Wyjaśniliśmy sobie podstawowe pojęcia, z którymi będziemy się spotykać, zastanówmy się teraz nad celem projektu, który będziemy realizować. Chcemy stworzyć rozwiązanie do przetwarzania dużej ilości danych z wielu naszych systemów i do produkowania dla nas informacje. Od ponad 10 lat współpracuję z przedsiębiorcami, ostatnie 4 lata to praca z instytucjami finansowymi, a od 2017 pracuję w zespole produkującym oprogramowanie zarządzające infrastrukturą. Na przestrzeni tych lat wyłonił się dla mnie obraz potrzeb w zakresie przetwarzania BIG DATA dla mikro, małych i średnich przedsiębiorstw – i to do nich kieruję ten projekt. Choć moim zdaniem, również duże firmy mogą być beneficjentem części rozwiązań.
+Wyjaśniliśmy sobie podstawowe pojęcia, z którymi będziemy się spotykać, zastanówmy się teraz nad celem projektu, który będziemy realizować. Chcemy stworzyć rozwiązanie do przetwarzania dużej ilości danych z wielu naszych systemów i do produkowania dla nas informacji. Od ponad 10 lat współpracuję z przedsiębiorcami, ostatnie 4 lata to praca z instytucjami finansowymi, a od 2017 pracuję w zespole produkującym oprogramowanie zarządzające infrastrukturą. Na przestrzeni tych lat wyłonił się dla mnie obraz potrzeb w zakresie przetwarzania BIG DATA dla mikro, małych i średnich przedsiębiorstw – i to do nich kieruję ten projekt. Choć moim zdaniem, również duże firmy mogą być beneficjentem części rozwiązań.
 
 ### Czego potrzebujecie?
 W większości przypadków – nie wiecie, czego potrzebujecie. Posiadacie kilka baz danych (z Waszych systemów CRM, CMS, ERP, może SCM), dodatkowo tysiące nieśmiertelnych arkuszy Excela. Żyjecie ze świadomością, że dane są i na tym sprawa się kończy. Zjawiają się u Was firmy proponujące wdrożenie mniej lub bardziej finezyjnych systemów raportowych czy BI, ale odstrasza Was cena albo wdrożenie wydaje się czymś przerażającym. 
@@ -43,17 +43,17 @@ Nie, nie jestem pracownikiem Microsoftu. Wymyślone przeze mnie rozwiązanie nas
 
 Ostatni klocek tej układanki: dostawca usługi serwera i infrastruktury. Po co i dlaczego [e24cloud.com][2]? Wyobraź sobie, przychodzisz do swojego szefa, wyjaśniasz mu szczegóły Twojego pomysłu na BIG DATA, a on Cię pyta: „Ile to będzie kosztować?” Zaczynasz wymieniać: serwer, może jakiś dodatkowy dysk, może lepsze łącze internetowe, zatrudnienie administratora który to wszystko skonfiguruje… $...$...$... Szef pyta: „Czemu mam tyle zapłacić za coś co jeszcze nie wiem czy przyniesie korzyści?”, „Jeśli się nie uda, co my potem z tym sprzętem zrobimy?”. Pojawia się problem. 
 
-I tutaj właśnie, jako rozwiązanie na początek - wkracza e24cloud.com. Projektujemy rozwiązanie, które kosztuje mały ułamek tego, co wydalibyśmy na sprzęt we własnej serwerowni.  Jeśli coś pójdzie nie tak, to po prostu wyłączamy środowisko, usuwamy pliki i koszty znikają. Elastycznie, tanio i otrzymujemy duże pole manewru z działaniami w przyszłości. E24cloud.com to polski dostawca. Jeśli dopiero zaczynasz przygodę z „chmurami”, to idealne miejsce dla Ciebie. Pomoc techniczna w języku polskim, dwie lokalizacje datacenter, znany dostawca: Beyond - firma, która przeżyła już awarię. Może zapytasz czy nie zwariowałem, że polecam firmę, która miała już awarię…? Tak, polecam. Obserwowałem zdarzenia, które były związane z tą sytuacją: po pierwsze firma, która przeszła większą awarię jest w stanie lepiej się przygotować na podobne sytuacje w przyszłości (awarie będą u każdego dostawcy, Tobie zależy na tym, żebyś najmniej je odczuł), a po drugie: sposób postępowania i rozwiązania problemów w tym przypadku był bardzo przyzwoity i przejrzysty (udostępniono po wszystkim szczegóły awarii). E24cloud.com to spora (jak na polski rynek) ilość funkcjonalności (mam nadzieje, że będzie ich przybywać) oraz w razie czego możliwość zakupu usługi administracji serwerem na różnych poziomach. Pozostaje tylko założyć konto i testować „klocki”, które otrzymujemy – a potem zbudować z nich co tylko chcemy.
+I tutaj właśnie, jako rozwiązanie na początek (a może na dłużej) - wkracza e24cloud.com. Projektujemy rozwiązanie, które kosztuje mały ułamek tego, co wydalibyśmy na sprzęt we własnej serwerowni.  Jeśli coś pójdzie nie tak, to po prostu wyłączamy środowisko, usuwamy pliki i koszty znikają. Elastycznie, tanio i otrzymujemy duże pole manewru z działaniami w przyszłości. E24cloud.com to polski dostawca. Jeśli dopiero zaczynasz przygodę z „chmurami”, to idealne miejsce dla Ciebie. Pomoc techniczna w języku polskim, dwie lokalizacje datacenter, znany dostawca: Beyond - firma, która przeżyła już awarię. Może zapytasz czy nie zwariowałem, że polecam firmę, która miała już awarię…? Tak, polecam. Obserwowałem zdarzenia, które były związane z tą sytuacją: po pierwsze firma, która przeszła większą awarię jest w stanie lepiej się przygotować na podobne sytuacje w przyszłości (awarie będą u każdego dostawcy, Tobie zależy na tym, żebyś najmniej je odczuł), a po drugie: sposób postępowania i rozwiązania problemów w tym przypadku był bardzo przyzwoity i przejrzysty (udostępniono po wszystkim szczegóły awarii). E24cloud.com to spora (jak na polski rynek) ilość funkcjonalności (mam nadzieje, że będzie ich przybywać) oraz w razie czego możliwość zakupu usługi administracji serwerem na różnych poziomach. Pozostaje tylko założyć konto i testować „klocki”, które otrzymujemy – a potem zbudować z nich co tylko chcemy.
 
 ### Zaraz zaraz, a bezpieczeństwo?
-Zapytasz mnie zaraz: a co z bezpieczeństwem? Przecież będziemy analizować dane w których mogą znajdować się dane osobowe? Tacy dostawcy jak Beyond od dawna są do tego przystosowani. Spełniają odpowiednie standardy bezpieczeństwa czy ISO. Z e24cloud.com możesz podpisać umowę powierzenia danych osobowych. Pytanie czy będzie taka potrzeba? Do celów analizy możesz wysyłać dane bez danych osobowych – BIG DATA tworzy ogólne „informacje dla decyzji biznesowych” i przeważnie nie potrzebuje danych osobowych. Porozmawiaj z prawnikiem, jak to wygląda w Twoim przypadku. Pamiętaj, że dane na dysku twardym w e24cloud.com możesz zaszyfrować ([VeraCrypt][3], [GPG][4]) Rozwiązań jest tutaj bardzo wiele – przeanalizuj sprawę i wybierz to rozwiązanie, które będzie zgodne z prawem a dla Ciebie najlepsze i najbezpieczniejsze.
+Zapytasz mnie zaraz: a co z bezpieczeństwem? Przecież będziemy analizować dane w których mogą znajdować się dane osobowe? Tacy dostawcy jak Beyond od dawna są do tego przystosowani. Spełniają odpowiednie standardy bezpieczeństwa czy ISO. Z e24cloud.com możesz podpisać umowę powierzenia danych osobowych. Pytanie czy będzie taka potrzeba? Do celów analizy możesz wysyłać dane bez danych osobowych – BIG DATA tworzy ogólne „informacje dla decyzji biznesowych” i przeważnie nie potrzebuje danych osobowych. Porozmawiaj z prawnikiem, jak to wygląda w Twoim przypadku. Pamiętaj, że dane na dysku twardym w e24cloud.com możesz zaszyfrować ([VeraCrypt][3], [GPG][4]). Rozwiązań jest tutaj bardzo wiele – przeanalizuj sprawę i wybierz to rozwiązanie, które będzie zgodne z prawem a dla Ciebie najlepsze i najbezpieczniejsze.
 
 Druga ważna sprawa. Połączenie z e24cloud.com powinno odbywać się szyfrowanym kanałem. To ważne nie tylko z powodu dobrych praktyk, ale chodzi również o ochronę danych (i tajemnicy przedsiębiorstwa). Najlepiej użyć do tego celu połączenia VPN. Na pewno do pracy zdalnej używasz już jakiegoś rozwiązania VPN (jeśli nie, zapoznaj się z ciekawym artykułem jak bez płatnych rozwiązań uruchomić VPN: [Praktyczna implementacja VPN na przykładzie Open VPN | Sekurak][5] ). Serwer w e24cloud.com to "normalny komputer", który również może być klientem VPN i korzystać z tego połączenia tylko do pobrania niezbędnych danych. 
 
 ### Zasilanie bazy danych do analiz
 ![Zasilenie bazy](img/img01.png)
 
-Pierwszy etap naszego projektu to dostarczenie w bezpieczny sposób do naszego serwera - danych, które posłużą nam do analiz. Użyjemy do tego celu bezpiecznego połączenia – przygotuj VPN (być może już go używasz). Dodatkowo zapoznaj się ze sposobami replikacji danych ([Slony-I][6]) w bazie PostgreSQL (lub innej wybranej przez Ciebie). Jeśli chciałbyś replikować bazy SQL Server w wersji Express (w tej wersji nie ma mechanizmów replikacji oferowanych przez samego SQL Servera), pomocny może okazać się [Microsoft Sync Framework][8]. Możesz również sam zaplanować inny sposób wymiany danych w bazie danych. Cel, jaki przed Tobą stoi, to szybka wymiana danych pomiędzy serwerami lokalnymi a serwerem e24cloud.com. Zadbaj o wymianę plików (arkusze kalkulacyjne, pliki CSV) – możesz skorzystać z protokołu NFS lub SMB ([jeśli SMB to zadbaj o aktualne aktualizacje Windows][24]) lub innego rozwiązania. W wykrywaniu zmienionych plików pomoże Ci [FreeFileSync][9] (można go używać z [wiersza poleceń][10])
+Pierwszy etap naszego projektu to dostarczenie w bezpieczny sposób do naszego serwera - danych, które posłużą nam do analiz. Użyjemy do tego celu bezpiecznego połączenia – przygotuj VPN (być może już go używasz). Dodatkowo zapoznaj się ze sposobami replikacji danych ([Slony-I][6]) w bazie PostgreSQL (lub innej wybranej przez Ciebie). Jeśli chciałbyś replikować bazy SQL Server w wersji Express (w tej wersji nie ma mechanizmów replikacji oferowanych przez samego SQL Servera), pomocny może okazać się [Microsoft Sync Framework][8]. Możesz również sam zaplanować inny sposób wymiany danych w bazie danych. Cel, jaki przed Tobą stoi, to szybka wymiana danych pomiędzy serwerami lokalnymi a serwerem e24cloud.com. Zadbaj o wymianę plików (arkusze kalkulacyjne, pliki CSV) – możesz skorzystać z protokołu NFS lub SMB ([jeśli SMB to zadbaj o instalację wszystkich bieżących aktualizacji Windows][24]) lub innego rozwiązania. W wykrywaniu zmienionych plików pomoże Ci [FreeFileSync][9] (można go używać z [wiersza poleceń][10])
 
 Nie martw się, że masz do przeniesienia bardzo dużo danych. Zamiast przesyłać wszystko przez sieć – skontaktuj się z e24cloud.com i ustal czy możliwa jest wysyłka do nich (np. na DVD) zaszyfrowanych przy pomocy VeraCrypt backupów swoich baz danych – poproś o umieszczenie ich na wskazanym przez Ciebie i utworzonym w panelu: dodatkowym dysku twardym. Wtedy będziesz mógł je spokojnie rozpakować i zasilić bazę danych danymi przed pierwszą replikacją. Nie bój się negocjować i podejmować kontaktu. 
 
@@ -92,7 +92,7 @@ Pamiętaj o skonfigurowaniu firewalla – Twój serwer jest w tej chwili dostęp
 
 Funkcjonalność która bardzo ułatwi Ci pracę to Linked Server ([więcej szczegółów][14]). Jest to mechanizm, który umożliwia podłączenie dowolnego źródła danych (do którego istnieją sterowniki, np. ODBC) jako serwera zlinkowanego z SQL Serverem. Dzięki czemu możemy w ramach zapytań wykonywanych w SQL Server odpytywać nie tylko inne serwery (nawet zdalne), ale również źródło danych uczynić z arkuszy kalkulacyjnych czy baz danych Access. [Tutaj dowiesz się][15] jak skonfigurować Linked Server dla PostgreSQL. Połączenie możliwe jest nie tylko przy pomocy sterownika PGNP, ale również przy wykorzystaniu ODBC (pobierz inny sterownik). Analogicznie możesz postąpić z [arkuszami kalkulacyjnymi czy plikami CSV][16]. Skonfiguruj odpowiednie połączenia do twoich baz i plików.
 
-### Czas na dodatkowy dysk.
+### Czas na dodatkowy dysk
 
 ![Dodatkowy dysk](img/img07.png)
 
@@ -141,11 +141,11 @@ W celu skonfigurowania Harmonogramu Zadań:
 
 ![Nowe zadanie w e24cloud.com](img/img11.png)
 
-Wybierz nowe zadanie w sekcji Harmonogram Zadań.
+Wybierz nowe zadanie w sekcji Harmonogram Zadań:
 
 ![Nowe zadanie w e24cloud.com](img/img12.png)
 
-Ustaw uruchomienie serwera codziennie o 1:00. Możesz uruchomić to zadanie tylko w dni tygodnia (jeśli Twoja firma nie generuje danych w weekend). Na koniec zatwierdź zadanie.
+Ustaw uruchomienie serwera codziennie o 1:00. Możesz uruchomić to zadanie tylko w robocze dni tygodnia (jeśli Twoja firma nie generuje danych w weekend). Na koniec zatwierdź zadanie.
 
 ### Raporty w „chmurze”
 ![Raporty](img/img13.png)
@@ -158,7 +158,7 @@ Dane niezbędne do połączenia do Twojego magazynu danych dostępne są tutaj:
 
 ![e24cloud.com Storage](img/img14.png)
 
-Wykonajmy brakujący krok – skonfigurujmy serwer do wrzucania plików z raportami do Twojego magazynu. Pobieramy i instalujemy program [Dragon Disk][19] (oficjalnie zgodny z [API e24cloud.com][20]):
+Wykonajmy brakujący krok – skonfigurujmy serwer do przesyłania plików z raportami do Twojego magazynu. Pobieramy i instalujemy program [Dragon Disk][19] (oficjalnie zgodny z [API e24cloud.com][20]):
 
 ![Dragon Disk](img/img15.png)
 
@@ -166,11 +166,11 @@ Następnie konfigurujemy konto w e24files:
 
 ![Dragon Disk Konfiguracja](img/img16.png)
 
-Możemy już korzystać z magazynu na pliki. Utworzyłem kontener rap01 i umieściłem w nim przykładowe pliki.
+Możemy już korzystać z magazynu na pliki. Utworzyłem kontener rap01 i umieściłem w nim przykładowe pliki:
 
 ![Dragon Disk Użycie](img/img17.png)
 
-To, co jest najciekawsze – aplikacja umożliwia automatyczną synchronizację plików.
+To, co jest najciekawsze – aplikacja umożliwia automatyczną synchronizację plików:
 
 ![Dragon Disk Synchronizacja](img/img18.png)
 
@@ -182,7 +182,7 @@ Wystarczy, że odpowiednio skonfigurujesz dgsync.exe jako krok w harmonogramie z
 
 Jeśli przeraża Cię konfigurowanie tych wszystkich zadań całkowicie ręcznie – skorzystaj z aplikacji, dzięki której cały proces będzie łatwiejszy [Desktop-Reminder][21] - lub innej o podobnej funkcjonalności.
 
-### Raporty docierają „na biurko” zarządu i managerów.
+### Raporty docierają „na biurko” zarządu i managerów
 
 ![Gotowe raporty dla Zarządu](img/img20.png)
 
@@ -199,7 +199,7 @@ Przejdź do edycji ustawień serwera i wybierz opcję „Skaluj” dostępną pr
 
 Wprowadź nowe ustawienia i zatwierdź je. Gotowe! Identyczne operacje możesz przeprowadzić też „w drugą stronę”.
 
-### Cennik i dodatkowe koszty.
+### Cennik i dodatkowe koszty
 Dodatkowe koszty, o których do tej pory nie wspomniałem to: 
 * transfer – Uwaga! Transfer przychodzący jest darmowy – a w naszym przypadku najwięcej ruchu będzie właśnie przychodzącego (replikacja bazy, synchronizacja plików). Dodatkowo w każdym miesiącu masz do dyspozycji 50GB darmowego transferu wychodzącego.
 * „Pliki w chmurze” – 1GB za 0,0002 PLN
@@ -214,7 +214,7 @@ Pełny schemat naszego „systemu analitycznego” wygląda następująco:
 
 ![Pełny schemat](img/img22.png)
 
-Wszystkie z przedstawionych scenariuszy są przykładowe. Jestem pewny, że będziesz potrafił dostosować go do własnych potrzeb i uczynić lepszym.
+Wszystkie z przedstawionych scenariuszy są przykładowe. Jestem pewny, że będziesz potrafił dostosować je do własnych potrzeb i uczynić lepszym.
 
 Podsumujmy (w przybliżeniu) również trochę koszty, jakie będzie generował nasz system. W tej chwili cennik przedstawia się następująco:
 
@@ -228,21 +228,21 @@ Podsumujmy (w przybliżeniu) również trochę koszty, jakie będzie generował 
 
 Żeby lepiej zobrazować poziom kosztów, przedstawiam przybliżoną kalkulację dla naszego systemu:
 
-Składnik| |Przewidywana, potrzebna ilość zasobów|Koszt jednostkowy|Koszt użycia
---- | --- | --- | --- | ---
-Włączona maszyna wirtualna| M1 | 22 dni robocze x 4 godziny (czas obliczeń [od uruchomienia do wyłączenia serwera]) = 22 x 4 = 88 godzin | 0,44 PLN | 38,72 PLN
-Wyłączona maszyna wirtualna	|M2 | 30 x 24 – M1 = 30 x 24 – 88 = 632 godziny	| 0,04 PLN |25,28 PLN
-Adres IP | IP | Tylko gdy serwer włączony = M1| 0,02 PLN | 1,76 PLN
-Dodatkowy dysk 50 GB | HDD2 | 30 dni x 24 godziny = 720 godzin | 0,02 PLN | 14,40 PLN
-„Pliki w chmurze” | STOR | 30 dni x 24 godziny = 720 godzin Zakładamy, że raporty nie zajmują więcej niż 1GB (to pliki tekstowe) | 0,0002 PLN | 0,14 PLN
-„Transfer wychodzący (ponad 50 GB)| OUT TR |Jeśli 3 członków zarządu/managerów pobierze 1GB 22 razy w miesiącu a Ty sam wygenerujesz 34 GB ruchu wychodzącego = (3 x 1GB x 22) + 40GB = 66 GB + 34 GB = 100 GB | 0,020 PLN (za transfer ponad 50GB)	| 1,00 PLN|
+Składnik|Przewidywana, potrzebna ilość zasobów|Koszt jednostkowy|Koszt użycia
+--- | --- | --- | ---
+[M1] Włączona maszyna wirtualna | 22 dni robocze x 4 godziny (czas obliczeń [od uruchomienia do wyłączenia serwera]) = 22 x 4 = 88 godzin | 0,44 PLN | 38,72 PLN
+[M2] Wyłączona maszyna wirtualna | 30 x 24 – M1 = 30 x 24 – 88 = 632 godziny	| 0,04 PLN |25,28 PLN
+[IP] Adres IP | Tylko gdy serwer włączony = M1| 0,02 PLN | 1,76 PLN
+[HDD2] Dodatkowy dysk 50 GB | 30 dni x 24 godziny = 720 godzin | 0,02 PLN | 14,40 PLN
+[STOR] „Pliki w chmurze” | 30 dni x 24 godziny = 720 godzin Zakładamy, że raporty nie zajmują więcej niż 1GB (to pliki tekstowe) | 0,0002 PLN | 0,14 PLN
+[OUT TR] „Transfer wychodzący (ponad 50 GB) |Jeśli 3 członków zarządu/managerów pobierze 1GB 22 razy w miesiącu a Ty sam wygenerujesz 34 GB ruchu wychodzącego = (3 x 1GB x 22) + 40GB = 66 GB + 34 GB = 100 GB | 0,020 PLN (za transfer ponad 50GB)	| 1,00 PLN|
 | | | | __Razem (miesięcznie) netto:__ | __81,30 PLN__
 ##### Dla obliczeń: doba = 24h, miesiąc = 30 dni
 
 Lekko ponad 80 zł za elastyczny system analityczno-raportowy. Nie masz tutaj limitów na ilość generowanych raportów i ich rodzaje. Ogranicza Cię jedynie wyobraźnia (za miejsce czy cykle procesora dopłacasz stosunkowo niewiele). Dołożenie nowego raportu czy zestawu danych to trochę pracy, którą musisz wykonać – a nie konieczność zakupu nowego modułu / uaktualnienia.
 
 ### Na koniec
-Zdaję sobie sprawę, że mój projekt nie jest idealny. Nie taki miał być. Chciałem pokazać, że mamy ogromne możliwości przy zachowaniu relatwnie niskich kosztów. Być może za jakiś czas potrzeby Twojej firmy okażą się większe niż opisane w takim scenariuszu. Ważne jest to, że do tego czasu zaoszczędzisz sporo pieniędzy na zbędną infrastrukturę i nauczysz się, jak wykorzystać e24cloud.com czy innego dostawcę do dostarczenia sobie mocy obliczeniowej i innych zasobów w celu jak najlepszego realizowania procesów w Twojej firmie. 
+Zdaję sobie sprawę, że mój projekt nie jest idealny. Nie taki miał być. Chciałem pokazać, że mamy ogromne możliwości przy zachowaniu relatywnie niskich kosztów. Być może za jakiś czas potrzeby Twojej firmy okażą się większe niż opisane w takim scenariuszu. Ważne jest to, że do tego czasu zaoszczędzisz sporo pieniędzy na zbędną infrastrukturę i nauczysz się, jak wykorzystać e24cloud.com czy innego dostawcę do dostarczenia sobie mocy obliczeniowej i innych zasobów w celu jak najlepszego realizowania procesów w Twojej firmie. 
 
 Jestem jeszcze winny odpowiedź na postawione przeze mnie wcześniej pytania. Mój projekt to wyciągnięta ręka w kierunku scenariuszy, w których boimy się inwestować w infrastrukturę i drogie systemy BI, a chcielibyśmy korzystać z ich dobrodziejstw. Jak widzicie, nie ma tutaj poważnych barier do pokonania. Potrzeba trochę czasu i chęci do nauki.
 I co nie mniej ważne, taki system raportowy może kosztować tyle, co miesięczny abonament telefonii komórkowej.
