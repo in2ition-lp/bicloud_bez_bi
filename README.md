@@ -236,7 +236,7 @@ Składnik|Przewidywana, potrzebna ilość zasobów|Koszt jednostkowy|Koszt użyc
 [HDD2] Dodatkowy dysk 50 GB | 30 dni x 24 godziny = 720 godzin | 0,02 PLN | 14,40 PLN
 [STOR] „Pliki w chmurze” | 30 dni x 24 godziny = 720 godzin Zakładamy, że raporty nie zajmują więcej niż 1GB (to pliki tekstowe) | 0,0002 PLN | 0,14 PLN
 [OUT TR] „Transfer wychodzący (ponad 50 GB) |Jeśli 3 członków zarządu/managerów pobierze 1GB 22 razy w miesiącu a Ty sam wygenerujesz 34 GB ruchu wychodzącego = (3 x 1GB x 22) + 40GB = 66 GB + 34 GB = 100 GB | 0,020 PLN (za transfer ponad 50GB)	| 1,00 PLN|
-| | | | __Razem (miesięcznie) netto:__ | __81,30 PLN__
+| | | __Razem (miesięcznie) netto:__ | __81,30 PLN__
 ##### Dla obliczeń: doba = 24h, miesiąc = 30 dni
 
 Lekko ponad 80 zł za elastyczny system analityczno-raportowy. Nie masz tutaj limitów na ilość generowanych raportów i ich rodzaje. Ogranicza Cię jedynie wyobraźnia (za miejsce czy cykle procesora dopłacasz stosunkowo niewiele). Dołożenie nowego raportu czy zestawu danych to trochę pracy, którą musisz wykonać – a nie konieczność zakupu nowego modułu / uaktualnienia.
